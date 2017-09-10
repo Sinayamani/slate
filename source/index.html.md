@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: API Referenceeeeee
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
@@ -16,8 +16,9 @@ includes:
 
 search: true
 ---
+radial-gradient(circle farthest-side at center bottom, #0077f3,rgb(0, 74, 210) 100%)
 
-# Introduction
+# Introductionnnn
 
 Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 
